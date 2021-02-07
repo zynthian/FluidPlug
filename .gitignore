@@ -4,6 +4,6 @@
 *.dll
 *.dylib
 *.so
-*.sf2
+#*.sf2
 *.tar
 exporter
